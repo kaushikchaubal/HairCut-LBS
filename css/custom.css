@@ -7,6 +7,12 @@ body {
 
 .text {
     font-size: 150px;
+    margin-bottom: 300px;
+}
+
+.stores {
+    width: 30%;
+    height: 30%;
 }
 
 #section0 {
