@@ -1,0 +1,51 @@
+body {
+	color: white;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.text {
+  font-size: 150px;
+}
+
+#section0 {
+	background-image: url("../img/home.gif");
+	background-size: 100%;
+}
+
+#section1 {
+	background-image: url("../img/personalStory.jpg");
+	background-size: 100%;
+}
+
+#section2 {
+	background-image: url("../img/insights.jpg");
+	background-size: 100%;
+}
+
+#section3 {
+	background-image: url("../img/demo.jpg");
+	background-size: 100%;
+}
+
+#section4 {
+	background-image: url("../img/businessModel.png");
+	background-size: 100%;
+}
+
+#section5 {
+	background-image: url("../img/futureSteps.png");
+	background-size: 100%;
+}
+
+/* Align all divs to the center of the page (vertically)*/
+.name {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/*Stretch all top-level divs to maximum height*/
+.col-sm-6 {
+    height: 100%;
+    min-height: 100%;
+}
