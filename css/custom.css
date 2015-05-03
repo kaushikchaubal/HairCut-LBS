@@ -2,7 +2,8 @@ body {
     color: white;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left: -20px;
-    margin-right: -20px
+    margin-right: -20px;
+    background-color: black;
 }
 
 .myImg {
@@ -31,31 +32,37 @@ body {
 #section0 {
     background-image: url("../img/home.gif");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 #section1 {
     background-image: url("../img/personalStory.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 #section2 {
     background-image: url("../img/insights.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 #section3 {
     background-image: url("../img/demo.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 #section4 {
     background-image: url("../img/businessModel.jpg");
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 #section5 {
-    background-image: url("../img/futureSteps.png");
-    background-size: 100%;
+    background-image: url("../img/futureSteps.jpg");
+    background-size: 100%;    
+    background-repeat: no-repeat;
 }
 /* Align all divs to the center of the page (vertically)*/
 
