@@ -16,6 +16,11 @@ body {
     margin-bottom: 300px;
 }
 
+.insightsText {
+    font-size: 150px;
+    margin-bottom: 100px;
+}
+
 .stores {
     width: 30%;
     height: 30%;
@@ -61,7 +66,7 @@ body {
 
 #section5 {
     background-image: url("../img/futureSteps.jpg");
-    background-size: 100%;    
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 /* Align all divs to the center of the page (vertically)*/
