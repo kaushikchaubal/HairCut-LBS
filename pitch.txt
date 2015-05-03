@@ -1,0 +1,50 @@
+Home
+	My name is Henry
+	here to Talk about my haircut experience
+	Went to barber and said 'I want it shorter'
+
+Personal Story
+	risk: will the wife like it?
+	Is there a business opportunity? We decided to explore...
+
+Out on the streets...
+	Spoke to 23 men about haircut - face similar troubles	
+	"This is not how I usually look like!" - Julian M Baladurage, Mentor @ LBS Hackathon
+	"My wife would love if I use this app" - Manan Vohra, Mentor @ LBS Hackathon
+	Did you know that an average 18-35 male spends 216 pounds/ year on haircuts? a million-dollar industry and yet are left unsatisfied!
+	We had found our problem to solve
+	Otherside of the story
+		8 barber shops around central London - realised that with the right information given to the barber, it is not difficult to get a consistent haircut
+		3 bits of information - 
+			how long since the last haircut
+			Details of length, etc
+			Picture of your 'perfect' haircut on you
+		competition - barber booking app- Whanda, Asapp - geo targeting app, yelp
+		but none is addressing this problem.
+	Combining our insights from both sides of the market, we started a journey to create the perfect solution for a consistent haircut
+
+Demo
+	This is what we developed... here is our demo
+
+Show me some £££!!!   
+	How are we going to make money?
+		Freemium subscription models - barbers and hairdressers
+		Initial free account gets them listed
+		Premium subscription gets them additional features
+			Full hairdresser profiles
+			Direct call integration
+			Data analytics
+		All of this resulting to increased traffic
+		Barbers and hairdressers pay to attract the marginal customers who needs a haircut and is nearby 
+
+Future Steps
+	In addition to value addition to barbers,
+	Reviews and ratings for Barbers
+	reminder for the next haircut
+	Pictures from all angles to make a 3-D image
+	Lookbooks
+	Bookings through the app
+
+Vision:
+to become the world's go to haircut app
+
