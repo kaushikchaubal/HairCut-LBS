@@ -18,7 +18,12 @@ body {
 
 .insightsText {
     font-size: 150px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
+}
+
+.businessModelText {
+    font-size: 150px;
+    margin-bottom: 80px;
 }
 
 .stores {
